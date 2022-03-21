@@ -1,2 +1,2 @@
-var titulo1 = document.querySelector(".titulo");
-titulo1.textContent = "Aparecida Nutricionista";
+var titulo = document.querySelector(".titulo");
+titulo.textContent = "Aparecida Nutricionista";
